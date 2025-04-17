@@ -1,0 +1,51 @@
+{
+  "sleep": {
+    "last_sleep_time": "2025-04-17 23:00:00",
+    "wake_up_time": "2025-04-18 06:00:00",
+    "duration": "7 hours 0 minutes",
+    "quality": "Good",
+    "deep_sleep_percentage": 25,
+    "rem_sleep_percentage": 20,
+    "light_sleep_percentage": 55,
+    "awake_periods": 2
+  },
+  "heart_rate": {
+    "readings": [
+      { "time": "06:10", "value": 68 }
+    ],
+    "resting": 65,
+    "current": 68,
+    "trend": "rising",
+    "min_today": 65,
+    "max_today": 75
+  },
+  "activity": {
+    "steps": 1500,
+    "active_minutes": 20,
+    "sedentary_minutes": 15,
+    "calories_burned": 60
+  },
+  "glucose": {
+    "readings": [
+      { "time": "06:05", "value": 98 }
+    ],
+    "current": 98,
+    "trend": "stable",
+    "min_today": 98,
+    "max_today": 102
+  },
+  "meals": {
+    "breakfast": {
+      "time": "2025-04-18 07:30:00",
+      "foods": [
+        "oatmeal",
+        "blueberries"
+      ]
+    },
+    "lunch": null,
+    "dinner": null,
+    "snacks": []
+  },
+  "water_intake_ml": 250,
+  "last_update": "2025-04-18 07:35:00"
+}

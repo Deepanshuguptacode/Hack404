@@ -1,0 +1,102 @@
+{
+  "sleep": {
+    "last_sleep_time": "2025-04-17 23:10:00",
+    "wake_up_time": null,
+    "duration": "0",
+    "quality": "unknown",
+    "deep_sleep_percentage": 0,
+    "rem_sleep_percentage": 0,
+    "light_sleep_percentage": 0,
+    "awake_periods": 0
+  },
+  "heart_rate": {
+    "readings": [
+      {
+        "time": "02:15",
+        "value": 58
+      },
+      {
+        "time": "03:30",
+        "value": 55
+      },
+      {
+        "time": "04:15",
+        "value": 62
+      },
+      {
+        "time": "05:00",
+        "value": 60
+      },
+      {
+        "time": "13:02",
+        "value": 87
+      },
+      {
+        "time": "13:22",
+        "value": 81
+      },
+      {
+        "time": "13:23",
+        "value": 89
+      },
+      {
+        "time": "13:50",
+        "value": 79
+      }
+    ],
+    "resting": 55,
+    "current": 79,
+    "trend": "elevated",
+    "min_today": 55,
+    "max_today": 89
+  },
+  "activity": {
+    "steps": 556,
+    "active_minutes": 0,
+    "sedentary_minutes": 146,
+    "calories_burned": 21
+  },
+  "glucose": {
+    "readings": [
+      {
+        "time": "00:30",
+        "value": 92
+      },
+      {
+        "time": "03:45",
+        "value": 88
+      },
+      {
+        "time": "05:00",
+        "value": 90
+      },
+      {
+        "time": "13:22",
+        "value": 131
+      },
+      {
+        "time": "13:23",
+        "value": 138
+      },
+      {
+        "time": "13:50",
+        "value": 134
+      }
+    ],
+    "current": 134,
+    "trend": "stable",
+    "min_today": 88,
+    "max_today": 138
+  },
+  "meals": {
+    "breakfast": null,
+    "lunch": null,
+    "dinner": {
+      "time": "2025-04-17 19:30:00",
+      "foods": "grilled salmon with vegetables and brown rice"
+    },
+    "snacks": []
+  },
+  "water_intake_ml": 350,
+  "last_update": "2025-04-17 13:50:51"
+}
